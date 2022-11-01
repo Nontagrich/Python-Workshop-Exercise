@@ -3,4 +3,8 @@ n = 1
 
 
 for i in range(a):
-    print("*")
+    for j in range(n):
+        print("*" ,end="")
+    
+    n+=1
+    print("")
