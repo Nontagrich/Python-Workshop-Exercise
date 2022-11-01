@@ -1,0 +1,3 @@
+
+score = 'FFFFFDCBAAAA'
+print()
